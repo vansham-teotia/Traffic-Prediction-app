@@ -11,11 +11,13 @@ This repository contains an end-to-end machine learning internship project desig
 ## Repository Structure
 * `Component_3_EDA_Data_Preparation.ipynb`: Data cleaning, temporal feature engineering, and exploratory visualizations.
 * `Component_5_Trained_Models_Model_Evaluation.ipynb`: Model training, comparison (Linear Regression, Random Forest, Gradient Boosting), and final evaluation.
-* `integrated_traffic_dataset.csv`: The historical dataset used for training.
+* `README.md`: Project documentation and overview.
 * `app.py`: The Streamlit web application code.
-* `traffic_volume_random_forest_refined.pkl`: The compressed, trained machine learning model.
+* `integrated_traffic_dataset.csv`: The historical dataset used for training.
 * `requirements.txt`: Dependencies required to run the web application.
+* `traffic_volume_random_forest_refined.pkl`: The compressed, trained machine learning model.
 
+  
 ## Technologies Used
 * **Python** (Data manipulation and modeling)
 * **Pandas & NumPy** (Data processing)
